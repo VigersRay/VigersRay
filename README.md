@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VigersRay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daniil
+- 👀 I’m interested in Python, Telegram and more
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on nobody
+- 📫 How to reach me @Vigers_Ray in the telegram
 
 <!---
 VigersRay/VigersRay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
